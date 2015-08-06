@@ -4,7 +4,7 @@ package Streams;
  * Project: TutorialsPointJava8
  * FileName: Java8Tester
  * Date: 2015-08-04
- * Time: ¿ÀÀü 9:58
+ * Time: ì˜¤ì „ 9:58
  * Author: sklee
  * Note:
  * To change this template use File | Settings | File Templates.
