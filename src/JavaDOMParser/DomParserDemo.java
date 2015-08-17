@@ -21,7 +21,7 @@ public class DomParserDemo {
     public static void main(String[] args){
 
         try {
-            File inputFile = new File("C:\\Users\\redfo\\IdeaProjects\\TutorialsPointJava8\\src\\JavaDOMParser\\input.txt");
+            File inputFile = new File("src\\JavaDOMParser\\input.txt");
             DocumentBuilderFactory dbFactory
                     = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
